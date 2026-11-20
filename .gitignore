@@ -1,0 +1,21 @@
+# VS Code Server
+.vscode-server/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Build outputs
+dist/
+build/
+.next/
